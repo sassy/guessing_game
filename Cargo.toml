@@ -5,4 +5,4 @@ authors = ["Satoshi Watanabe <sassy.watanabe@gmail.com>"]
 
 [dependencies]
 
-rand="0.7.3"
+rand="0.8.3"
